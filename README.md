@@ -98,9 +98,9 @@ EOF
 ```ShellSession
 $ git add .
 $ git commit -m"added print package"
-$ git push ${GIHUB_USERNAME} master
+$ git push ${GITHUB_USERNAME} master
 $ git tag v0.19.137.1
-$ git push ${GIHUB_USERNAME} master --tags
+$ git push ${GITHUB_USERNAME} master --tags
 $ cd ..
 ```
 
